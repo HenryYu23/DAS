@@ -1,0 +1,5 @@
+**/__pycache__/
+datasets/
+outputs/
+output/
+**/__pycache__/**
